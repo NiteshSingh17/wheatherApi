@@ -1,0 +1,59 @@
+[
+{
+"city":"Uyo",
+"country":"NG",
+"Month":"January",
+"day":18,
+"year":2021,
+"Pressure": 1000.7,
+"Temperature": 29.5,
+"Humidity": 77,
+"Condition":"Cloudy",
+"Windspeed": 5,
+"winddir":"wsw",
+"Chanceofrain": 80
+},
+
+{
+"city":"Uyo",
+"country":"NG",
+"Month":"March",
+"day":9,
+"year":2021,
+"Pressure": 998.2,
+"Temperature": 34.9,
+"Humidity": 60,
+"Condition":"Sunny",
+"Windspeed": 15,
+"winddir":"NE",
+"Chanceofrain": 20
+},
+{
+"city":"Uyo",
+"country":"NG",
+"Month":"February",
+"day":7,
+"year":2021,
+"Pressure": 999.3,
+"Temperature": 34.7,
+"Humidity": 57,
+"Condition":"Cloudy",
+"Windspeed": "Unknown",
+"winddir":"Unknown",
+"Chanceofrain":20
+},
+{
+"city":"Accra",
+"country":"GH",
+"Month":"June",
+"day":9,
+"year":2021,
+"Pressure": 1002.0,
+"Temperature": 32.7,
+"Humidity": 68,
+"Condition":"Partly Cloudy",
+"Windspeed": "Unknown",
+"winddir":"Unknown",
+"Chanceofrain": 30
+}
+]
